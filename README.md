@@ -17,7 +17,7 @@
 <img width="" height="" src="./pic/결과 파일 2).png"></img>
 
 # 6주차(2022-04-12)
-<img width="" height="" src="./pic/넓비 값.png"></img>
+<img width="" height="" src="./pic/넓이 값.png"></img>
 <img width="" height="" src="./pic/높이 값1.png"></img>
-<img width="" height="" src="./pic/넓비 값1.png"></img>
+<img width="" height="" src="./pic/넓이 값1.png"></img>
 <img width="" height="" src="./pic/높이 값2.png"></img>
