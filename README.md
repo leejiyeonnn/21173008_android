@@ -26,4 +26,8 @@
 <img width="" height="" src="./pic/메뉴엑티비티.PNG"></img>
 <img width="" height="" src="./pic/메서드호출됨.PNG"></img>
 <img width="" height="" src="./pic/응답으로전달됨.PNG"></img>
+<img width="" height="" src="./pic/Menu.PNG"></img>
+<img width="" height="" src="./pic/Main(1).PNG"></img>
+<img width="" height="" src="./pic/Main(2).PNG"></img>
+
 
