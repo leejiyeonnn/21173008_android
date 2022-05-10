@@ -21,8 +21,9 @@
 <img width="" height="" src="./pic/높이 값.png"></img>
 
 # 10주차(2022-05-10)
-<img width="" height="" src="./pic/메뉴메뉴띄우기.png"></img>
-<img width="" height="" src="./pic/메뉴엑티비티.png"></img>
-<img width="" height="" src="./pic/메서드호출됨.png"></img>
-<img width="" height="" src="./pic/응답으로전달됨.png"></img>
+-오늘 배운 내용 중 여러 화면 만들고 화면 간 전환하기
+<img width="" height="" src="./pic/메뉴화면띄우기.PNG"></img>
+<img width="" height="" src="./pic/메뉴엑티비티.PNG"></img>
+<img width="" height="" src="./pic/메서드호출됨.PNG"></img>
+<img width="" height="" src="./pic/응답으로전달됨.PNG"></img>
 
