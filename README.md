@@ -32,3 +32,7 @@
 # 11주차(2022-05-17)
 <img width="" height="" src="./pic/웹으로 요청하기.png"></img>
 
+# 12주차(2022-05-24)
+<img width="" height="" src="./pic/영화 정보의 수.PNG"></img>
+
+
